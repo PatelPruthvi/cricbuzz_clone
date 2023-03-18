@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "250904866981",
+    "project_id": "cricketdataapi",
+    "storage_bucket": "cricketdataapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250904866981:android:8987596d6b6af87ffedd4c",
+        "android_client_info": {
+          "package_name": "com.example.cric_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250904866981-s0por1un825ul5r1ae2ke645l15r4l8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cric_api",
+            "certificate_hash": "9fcb92c4c13e4319a089ce833b6497eeceeaa19f"
+          }
+        },
+        {
+          "client_id": "250904866981-hqji895hoiqo21lghu3gs0ugj5bq1uno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlP8h0DcTXRJjPhwjO8rpR8hJENW1TMyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250904866981-hqji895hoiqo21lghu3gs0ugj5bq1uno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
