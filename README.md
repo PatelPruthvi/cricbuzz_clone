@@ -1,5 +1,5 @@
 # Cricbuzz Clone
-
+The Cricbuzz Clone is a Flutter-based mobile application that replicates the functionality of the popular Cricbuzz cricket information platform. This project aims to provide cricket enthusiasts with real-time cricket match scores, comprehensive statistics,and other essential information, all in the palm of their hands.
 
 ## Table of Contents
 
