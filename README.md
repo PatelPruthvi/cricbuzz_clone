@@ -45,11 +45,11 @@ Follow these steps to install and run the Cricbuzz Clone:
    
    ```bash
    $ cd cricbuzz_clone
-4. **Install dependencies**
+3. **Install dependencies**
    
    ```bash
    $ flutter pub get
-6. **Run application**
+4. **Run application**
 
    ```bash
    $ flutter run
