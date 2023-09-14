@@ -39,7 +39,7 @@ Follow these steps to install and run the Cricbuzz Clone:
 1. **Clone the repository:**
 
    ```bash
-   $ git clone https://github.com/yourusername/cricbuzz-clone.git
+   $ git clone https://github.com/PatelPruthvi/cricbuzz_clone.git
 
 2. **Navigate to Project Directory**
    
