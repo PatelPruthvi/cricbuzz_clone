@@ -44,7 +44,7 @@ Follow these steps to install and run the Cricbuzz Clone:
 2. **Navigate to Project Directory**
    
    ```bash
-   $ cd cricbuzz-clone
+   $ cd cricbuzz_clone
 4. **Install dependencies**
    
    ```bash
